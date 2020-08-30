@@ -1,0 +1,30 @@
+body {
+   font-size: 15px;
+    letter-spacing: 1.5px;
+    line-height: 1.6;
+    position: relative;
+    font-family: "Helvetica Neue";
+}
+img {
+    float: left;
+   height: 50vh;
+   width: 80rem;
+} 
+.column{
+   width : 10%;
+   
+}
+
+
+
+.sidebar {
+   width: 120%;
+float: left;
+ color: blue;
+ 
+   background-color:black;
+ } 
+ p1 {
+    color:white;
+  float: inline-end;
+ }
